@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Baby Chandana Kamalapuram on 09/04/26.
+  
+*/
+"appleText" = "ஆப்பிள்";
+"bananaText" = "வாழைப்பழம்";
+"waterMelonText" = "தர்பூசணி";
+"grapesText" = "திராட்சை";
+"sapotaText" = "சப்போட்டா";
+"paragraphText" = "கீழே உள்ள எக்ஸ்டென்ஷன் UserDefaults-ல் சேமிக்கப்பட்ட தேர்ந்தெடுக்கப்பட்ட மொழியின் அடிப்படையில் உள்ளூர் மொழி ஸ்டிரிங்களை பெற அனுமதிக்கிறது மற்றும் ஸ்டிரிங் இன்டர்பொலேஷனுக்கான டைனமிக் ஆர்க்யூமென்ட்களுடன் உள்ளூர் ஸ்டிரிங்களை கையாளும் வழியையும் வழங்குகிறது.";

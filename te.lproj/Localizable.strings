@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Baby Chandana Kamalapuram on 09/04/26.
+  
+*/
+"appleText" = "ఆపిల్";
+"bananaText" = "అరటి పండు";
+"waterMelonText" = "పుచ్చకాయ";
+"grapesText" = "ద్రాక్ష";
+"sapotaText" = "సపోటా";
+"paragraphText" = "క్రింది ఎక్స్‌టెన్షన్ UserDefaults‌లో నిల్వ చేసిన ఎంపిక చేసిన భాష ఆధారంగా లోకలైజ్డ్ స్ట్రింగ్‌లను పొందడానికి అనుమతిస్తుంది మరియు స్ట్రింగ్ ఇంటర్‌పోలేషన్ కోసం డైనమిక్ ఆర్గ్యుమెంట్స్‌తో లోకలైజ్డ్ స్ట్రింగ్‌లను నిర్వహించడానికి కూడా సహాయపడుతుంది.";

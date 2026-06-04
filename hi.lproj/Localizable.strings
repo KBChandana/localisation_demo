@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Baby Chandana Kamalapuram on 09/04/26.
+  
+*/
+"appleText" = "सेब";
+"bananaText" = "केला";
+"waterMelonText" = "तरबूज";
+"grapesText" = "अंगूर";
+"sapotaText" = "चीकू";
+"paragraphText" = "नीचे दिया गया एक्सटेंशन आपको UserDefaults में संग्रहीत चयनित भाषा के आधार पर लोकलाइज़्ड स्ट्रिंग्स प्राप्त करने की अनुमति देता है और साथ ही स्ट्रिंग इंटरपोलेशन के लिए डायनामिक आर्ग्युमेंट्स के साथ लोकलाइज़्ड स्ट्रिंग्स को संभालने का तरीका भी प्रदान करता है।";

@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Baby Chandana Kamalapuram on 09/04/26.
+  
+*/
+"appleText" = "Pomme";
+"bananaText" = "Banane";
+"waterMelonText" = "Pastèque";
+"grapesText" = "Raisins";
+"sapotaText" = "Sapote";
+"paragraphText" = "L'extension ci-dessous vous permet d'effectuer des recherches de chaînes localisées basées sur une langue sélectionnée stockée dans UserDefaults et fournit également un moyen de gérer les chaînes localisées avec des arguments dynamiques pour l'interpolation de chaînes.";
