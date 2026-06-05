@@ -17,5 +17,8 @@ struct LocalizationDemoTests {
 }
 
 struct testing{
-    
+    @Test("display name")
+    func <#name#>() async throws {
+        <#body#>
+    }
 }
