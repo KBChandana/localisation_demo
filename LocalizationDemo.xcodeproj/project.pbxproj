@@ -55,11 +55,6 @@
 			path = LocalizationDemoUITests;
 			sourceTree = "<group>";
 		};
-		189880DF2FD2CF5500F32222 /* .github */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = .github;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,7 +85,6 @@
 		181CFA8D2F87ABF800375C87 = {
 			isa = PBXGroup;
 			children = (
-				189880DF2FD2CF5500F32222 /* .github */,
 				181CFAF22F87D8AD00375C87 /* Localizable.strings */,
 				181CFA982F87ABF800375C87 /* LocalizationDemo */,
 				181CFAA62F87ABFD00375C87 /* LocalizationDemoTests */,
@@ -126,7 +120,6 @@
 			);
 			fileSystemSynchronizedGroups = (
 				181CFA982F87ABF800375C87 /* LocalizationDemo */,
-				189880DF2FD2CF5500F32222 /* .github */,
 			);
 			name = LocalizationDemo;
 			packageProductDependencies = (

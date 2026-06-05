@@ -15,3 +15,7 @@ struct LocalizationDemoTests {
     }
 
 }
+
+struct testing{
+    
+}
