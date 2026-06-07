@@ -21,10 +21,9 @@ jobs:
       - name: Show Xcode Version
         run: xcodebuild -version
 
-      - name: Build App
+      - name: Run Tests
         run: |
-          xcodebuild \
+          xcodebuild test \
           -project LocalizationDemo.xcodeproj \
           -scheme LocalizationDemo \
-          -sdk iphonesimulator \
-          build
+          -destination 'platform=iOS Simulator,name=iPhone 16 Pro'

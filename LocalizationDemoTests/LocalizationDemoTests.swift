@@ -5,20 +5,12 @@
 //  Created by Baby Chandana Kamalapuram on 09/04/26.
 //
 
-import Testing
+import XCTest
 @testable import LocalizationDemo
 
-struct LocalizationDemoTests {
+final class LocalizationDemoTests: XCTestCase {
 
-    @Test func example() async throws {
-        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
-    }
-
-}
-
-struct testing{
-    @Test("display name")
-    func <#name#>() async throws {
-        <#body#>
+    func testExample() {
+        XCTAssertTrue(true)
     }
 }
